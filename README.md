@@ -33,3 +33,14 @@
 ### Current Streak  
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=SriManikumar&theme=radical)](https://git.io/streak-stats)  
+
+
+[![Sri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SriManikumar&show_icons=true&theme=radical)](https://github.com/SriManikumar)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SriManikumar&theme=radical)](https://git.io/streak-stats)
+
+
+### Skills  
+![Java](https://img.shields.io/badge/Java-Expert-red)  
+![Python](https://img.shields.io/badge/Python-Advanced-blue)  
+![AWS](https://img.shields.io/badge/AWS-Certified-orange)  
